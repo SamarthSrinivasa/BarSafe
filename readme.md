@@ -10,23 +10,18 @@ This application provides a robust multi-modal safety filtering system that leve
 - Adaptive safety constraint mechanism
 - Comprehensive toxicity detection
 
-## 🖥️ Screenshots
 ### Main Menu
-![Main Menu Screenshot]
 - Displays options for CLIP Mode and GPT-4 Vision Chat Mode
 
 ### Image Selection
-![Image Selection Screenshot]
 - Interactive image browsing
 - Support for direct file path or directory browsing
 
 ### Safety Scoring
-![Safety Scoring Screenshot]
 - Detailed toxicity scores for text and image
 - Visual representation of safety constraints
 
 ### CLIP Analysis
-![CLIP Analysis Screenshot]
 - Text-image similarity scores
 - Safety constraint evaluation
 
@@ -166,6 +161,3 @@ is_safe = B <= 0
 - Requires active API credentials
 - Performance depends on API response times
 - Safety scoring is probabilistic
-
-## 📜 License
-[Your License Here]
