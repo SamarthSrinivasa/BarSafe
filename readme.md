@@ -1,4 +1,4 @@
-# CLIP Safety Alignment System
+# BarSafe - A CLIP Safety Alignment System
 
 ## 🛡️ Overview
 This application provides a robust multi-modal safety filtering system that leverages advanced AI models to ensure safe and responsible content interaction across text and image inputs.
